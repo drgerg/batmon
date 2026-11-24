@@ -61,7 +61,7 @@ module amp_level(){
             cube(pidims,true);
             union(){
                 translate([-pidims[0]/2,-pidims[1]/2,-pidims[2]/2])
-                #drillholes(3.5,3.5,58,23);
+                drillholes(3.5,3.5,58,23);
                 // translate([-pidims[0]/2,-pidims[1]/2,-pidims[2]/2])
                 // secondholes(3.5,3.5,49,57.5-25);
                 cube([pidims[0]-14,pidims[1]-14,9],true);
