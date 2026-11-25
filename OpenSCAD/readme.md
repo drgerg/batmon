@@ -1,4 +1,4 @@
-[oled_ssd-1306_0.96in_mount.png](./oled_ssd-1306_0.96in_mount.png)
+![oled_ssd-1306_0.96in_mount.png](./oled_ssd-1306_0.96in_mount.png)<br>
 [pushbutton_holder.png]
 [zero_arch_base_stand.png]
 [zero_base_flat_level.png]
